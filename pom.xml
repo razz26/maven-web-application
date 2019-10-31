@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>kfc_maven_snapshot</name>
-	      <url>http://34.207.214.210:8081/repository/kfc_maven_snapshot/</url>
+	      <url>http://34.207.214.210:8081/repository/kfc_/maven_snapshot</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
