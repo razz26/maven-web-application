@@ -96,13 +96,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
+	      <name>kfc_maven_releases</name>
 	      <url>http://34.207.214.210:8081/repository/kfc_maven/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
+	      <name>kfc_maven_snapshot</name>
 	      <url>http://34.207.214.210:8081/repository/kfc_maven_snapshot/</url>
 	    </snapshotRepository>
 	    
