@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>kfc_maven_releases</name>
-	      <url>http://54.159.67.202:8081/repository/kfc_maven/</url>
+	      <url>http://54.159.67.202:8081/repository/razz26_snapshot/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>kfc_maven_snapshot</name>
-	      <url>http://54.159.67.202:8081/repository/kfc_maven_snapshot/</url>
+	      <url>http://54.159.67.202:8081/repository/razz26_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
