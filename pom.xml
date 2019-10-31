@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://34.207.214.210:8081/repository/kfc_maven/</url>
+	      <url></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
