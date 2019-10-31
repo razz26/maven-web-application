@@ -21,7 +21,7 @@
 		<spring.version>5.1.2.RELEASE</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://18.206.97.177:9000/</sonar.host.url>
+		<sonar.host.url>http://52.90.151.248:9000/</sonar.host.url>
 		<sonar.login>4e4bb80ff0f979e91b235dbf7d124961012870fa</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>kfc_maven_releases</name>
-	      <url>http://34.207.214.210:8081/repository/mvn-releasesss/</url>
+	      <url>http://54.159.67.202:8081/repository/kfc_maven/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>kfc_maven_snapshot</name>
-	      <url>http://34.207.214.210:8081/repository/mv-snapshotss/</url>
+	      <url>http://54.159.67.202:8081/repository/kfc_maven_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
