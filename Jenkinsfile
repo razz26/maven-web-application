@@ -76,7 +76,7 @@ stage('DeploytoTomcat'){
          cc: 'devopstrainingblr@gmail.com', 
          from: 'devopstrainingblr@gmail.com', 
          replyTo: 'devopstrainingblr@gmail.com', 
-         subject: 'Build Notification'
+         subject: 'Build Notification came'
          body: '''Build Done, Please check the build log for more details..
          
                   Regards,
